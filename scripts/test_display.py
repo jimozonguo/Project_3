@@ -25,3 +25,4 @@ class TestDisplay:
         #步骤4：点击“返回箭头”按钮
         self.page_display.click_back();
 新增了本行代码：版本2
+新增了本行代码：版本3

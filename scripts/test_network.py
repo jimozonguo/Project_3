@@ -35,4 +35,4 @@ class TestNetwork:
         self.page_network.click_PreNetworkType();
         # 步骤4：点击"3G"
         self.page_network.click_3G();
-
+新增了本行代码：版本3
